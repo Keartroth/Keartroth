@@ -1,12 +1,13 @@
-![Michael Carroll, Software Dev](./Life(MichaelCarroll).png | border-radius: 50px;)
+![Michael Carroll, Software Dev](./Life(MichaelCarroll).png | style=border-radius: 50px;)
 
-# 😁 Hello, I'm Michael Carroll 👋
+### 😁 Hello, I'm Michael Carroll 👋
 
 - 🔭 I'm a software engineer based out of Nashville, TN, and I'm attempting to travel the world a bit while remote work is all the rage. I’m currently working as a teaching assistant at Nashville Software School helping students navigate the path to full stack developers. I am currently in Medellin, Colombia ☕.
-- 🌱 I’m presently learning Vue[Vue.js](https://vuejs.org/){:target="\_blank"} and jiu-jitsu 🥋.
+- 🌱 I’m presently learning Vue and jiu-jitsu 🥋.
 - 🔨 Here are a couple of apps I've built:
-> [It Takes a Village](https://github.com/Keartroth/It-Takes-A-Village){:target="\_blank"}
-> [News Real](https://github.com/Keartroth/News-Real){:target="\_blank"}
+> [It Takes a Village](https://github.com/Keartroth/It-Takes-A-Village)
+<br/>
+> [News Real](https://github.com/Keartroth/News-Real)
 
 <br/>
 
