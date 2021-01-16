@@ -12,16 +12,16 @@
 
 <br/>
 
-<div align="center" style="display:flex;justify-content:space-evenly;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Keartroth&show_icons=true&count_private=true&theme=gruvbox" alt="github statistics" style="display:block;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keartroth&layout=compact&theme=gruvbox" alt="github statistics" style="display:block;" />
+<div align="center" style="display: flex; justify-content: space-evenly;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Keartroth&show_icons=true&count_private=true&theme=gruvbox" alt="github statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keartroth&layout=compact&theme=gruvbox" alt="github statistics" />
 </div>
 
 <br/>
 <br/>
 
 ## 🤓💻 My Skill Set
-<div align="center" style="display: flex; justify-content: space-evenly;">
+<div align="center" style="display: flex; justify-content: space-between;">
   <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
   <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
   <img src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />
@@ -36,15 +36,15 @@
 <br/>
 
 ## 📫 Connect with me
-<section align="center" style="display:flex;justify-content:space-evenly;">
-  <a href="https://www.linkedin.com/in/mecarrolljr/" target="_blank" style="text-decoration: none;&:hover {text-decoration: none;}">
+<div align="center" style="display: flex; justify-content: space-between;">
+  <a href="https://www.linkedin.com/in/mecarrolljr/" target="_blank" style="text-decoration: none; &:hover {text-decoration: none;}">
     <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logo" alt="linkedin" height="30" />
   </a>  
-  <a href="https://keartroth.github.io/" target="_blank" style="text-decoration: none;&:hover {text-decoration: none;}">
+  <a href="https://keartroth.github.io/" target="_blank" style="text-decoration: none; &:hover {text-decoration: none;}">
     <img src="https://img.shields.io/badge/Keartroth-Personal%20Site-lightgrey?style=flat-square&logo=github&logo" alt="personal site" height="30" />
   </a>
-  <a href="mailto: mecarrolljr@tutanota.com" style="text-decoration: none;&:hover {text-decoration: none;}">
+  <a href="mailto: mecarrolljr@tutanota.com" style="text-decoration: none; &:hover {text-decoration: none;}">
     <img src="https://img.shields.io/badge/Email-Send%20me%20a%20message-blue?style=flat-square&logo=minutemailer" alt="email" height="30" />
   </a>
-</section>
+</div>
 <br/>
