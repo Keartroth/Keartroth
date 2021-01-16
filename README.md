@@ -1,4 +1,4 @@
-![Michael Carroll, Software Dev](./Life(MichaelCarroll).png)
+![Michael Carroll, Software Dev](./Life(MichaelCarroll).png | border-radius: 50px;)
 
 # 😁 Hello, I'm Michael Carroll 👋
 
